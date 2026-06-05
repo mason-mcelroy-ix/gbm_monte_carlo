@@ -1,0 +1,9 @@
+name: quant_exploration
+channels:
+  - defaults
+dependencies:
+  - jupyterlab
+  - numpy
+  - matplotlib
+  - pandas
+prefix: C:\Users\masro\anaconda3\envs\quant_exploration
