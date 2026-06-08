@@ -14,10 +14,10 @@ The recommended method to run this program is through an Anaconda environment:
 2. Clone this repository
 3. Create the Conda environment from the environment.yml as follows:
 ```
-conda env create ---file environment.yml
+conda env create --file environment.yml
 conda activate quant_notebooks
 ```
-4. Run the notebook through JupyterLab
+4. Start up JupyterLab in the terminal
 ```
 jupyter lab
 ```
