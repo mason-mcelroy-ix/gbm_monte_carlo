@@ -3,6 +3,7 @@ channels:
   - defaults
 dependencies:
   - jupyterlab
+  - pandas
   - numpy
   - matplotlib
-  - pandas
+  - scipy

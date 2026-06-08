@@ -32,10 +32,10 @@ We assume that stock prices follow Geometric Brownian Motion, as defined by the 
 $dS_t = \mu S_t dt + \sigma S_t dW_t$
 
 where:
-- $S_t$ is the stock price
+- $S_t$ is the stock price at time t
 - $\mu$ is the expected return ("drift")
 - $\sigma$ is the volatility
-- $dW_t$ is a "Brownian motion increment" known as a Wiener process
+- $dW_t$ is the "brownian motion increment" at time t, also known as a Wiener process
 
 ---
 
